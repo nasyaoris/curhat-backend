@@ -159,3 +159,5 @@ virtual/
 db.sqlite3
 staticfiles/
 .DS_Store
+
+curhat-backend/settings/local.py
